@@ -50,7 +50,6 @@ header{
 
 .head-left button:hover{
     opacity: 0.7;
-    color: white;
 }
 
 .head-right{
@@ -117,6 +116,7 @@ header{
 .hero-info button:hover{
     background-color: transparent;
     box-shadow: 0 0 15px #edff66;
+    color: white;
 }
 
 .gaming-text{
